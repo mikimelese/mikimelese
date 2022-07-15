@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm mikyas</h1>
 <h3 align="center">A passionate frontend, backend and app developer from Ethiopia</h3>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="me" style="width:498px;height:373px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikimelese&label=Profile%20views&color=0e75b6&style=flat" alt="mikimelese" /> </p>
 

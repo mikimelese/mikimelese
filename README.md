@@ -13,7 +13,7 @@
     <img height="28" src="https://img.shields.io/twitter/follow/mikimelese?logo=x&style=flat" alt="Follow on X" />
   </a>
   <a href="https://linkedin.com/in/mikimelese" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat" alt="LinkedIn" />
+    <img height="28" src="https://img.shields.io/badge/LinkedIn%20Follow-blue?logo=linkedin&style=flat" alt="LinkedIn" />
   </a>
 </p>
 

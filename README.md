@@ -68,10 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikimelese&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mikimelese&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🧠 Projects Coming Soon!

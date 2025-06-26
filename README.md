@@ -29,7 +29,7 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/mikimelese" target="_blank">
-    <img height="28" src="https://img.icons8.com/ios-filled/28/ffffff/twitterx--v1.png" alt="Follow on X" height="30" />
+    <img height="30" src="https://img.icons8.com/ios-filled/28/ffffff/twitterx--v1.png" alt="Follow on X" />
   </a>
   <a href="https://linkedin.com/in/mikimelese" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />

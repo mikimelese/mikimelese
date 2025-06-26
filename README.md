@@ -10,8 +10,7 @@
 <p align="center">
   <img height="28" src="https://komarev.com/ghpvc/?username=mikimelese&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/mikimelese" target="_blank">
-    <!-- white icon so it pops on dark backgrounds -->
-    <img height="28" src="https://img.icons8.com/ios-filled/28/ffffff/twitterx--v1.png" alt="Follow on X" />
+    <img height="28" src="https://img.shields.io/twitter/follow/mikimelese?logo=x&style=flat" alt="Follow on X" />
   </a>
   <a href="https://linkedin.com/in/mikimelese" target="_blank">
     <img height="28" src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat" alt="LinkedIn" />
@@ -30,7 +29,7 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/mikimelese" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/twitterx--v1.png" alt="X (Twitter)" height="30" />
+    <img height="28" src="https://img.icons8.com/ios-filled/28/ffffff/twitterx--v1.png" alt="Follow on X" />
   </a>
   <a href="https://linkedin.com/in/mikimelese" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
